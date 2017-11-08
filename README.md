@@ -39,6 +39,7 @@
 
 ### Angular
 
+* [Material Design Guidelines](https://material.io/guidelines/)
 * [Angular Material](https://material.angular.io/)
 * [Ng Bootstrap](https://ng-bootstrap.github.io/)
 * [Angular Flex Layout](https://github.com/angular/flex-layout)
