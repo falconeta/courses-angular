@@ -32,9 +32,10 @@
 
 ## Additional Resources
 
-### JavaScript
+### Rx
 
 * [RxJs](http://reactivex.io/rxjs/)
+* [Rx Marbles](http://rxmarbles.com/)
 
 ### Angular
 
