@@ -28,7 +28,7 @@
 
 * [JSONTest](http://www.jsontest.com/)
 * [JSON Server](https://github.com/typicode/json-server)
-* [JSONPlaceholder](https://github.com/typicode/json-server)
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Additional Resources
 
