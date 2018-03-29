@@ -2,14 +2,15 @@
 
 ## Main
 
-### TypeScript
+### Reference
 
 * [TypeScript](http://www.typescriptlang.org/)
-
-### Angular
-
 * [Angular Website](https://angular.io/)
-* [Angular Book](https://angular-2-training-book.rangle.io/)
+
+### Books
+
+* [Angular Training (Rangle.io)](https://angular-2-training-book.rangle.io/)
+* [Angular From Theory to Practice](https://www.amazon.it/Angular-Practice-applications-tomorrow-framework-ebook/dp/B01N9S0CZN)
 
 ## Utilities
 
@@ -37,14 +38,10 @@
 * [RxJs](http://reactivex.io/rxjs/)
 * [Rx Marbles](http://rxmarbles.com/)
 
-### Angular
+### Theming, Css, et al.
 
-* [Material Design Guidelines](https://material.io/guidelines/)
 * [Angular Material](https://material.angular.io/)
 * [Ng Bootstrap](https://ng-bootstrap.github.io/)
 * [Angular Flex Layout](https://github.com/angular/flex-layout)
-
-### Css
-
 * [Sass](http://sass-lang.com/)
 * [Less](http://lesscss.org/)
