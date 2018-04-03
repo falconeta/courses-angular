@@ -12,7 +12,7 @@
 * [Angular Training (Rangle.io)](https://angular-2-training-book.rangle.io/)
 * [Angular From Theory to Practice](https://www.amazon.it/Angular-Practice-applications-tomorrow-framework-ebook/dp/B01N9S0CZN)
 
-## Utilities
+## Tools and Utilities
 
 ### Angular
 
