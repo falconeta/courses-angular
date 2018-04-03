@@ -45,3 +45,8 @@
 * [Angular Flex Layout](https://github.com/angular/flex-layout)
 * [Sass](http://sass-lang.com/)
 * [Less](http://lesscss.org/)
+
+### Testing
+
+* [Karma](https://karma-runner.github.io/2.0/index.html)
+* [Jasmine](https://jasmine.github.io/)
