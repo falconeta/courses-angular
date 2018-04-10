@@ -1,6 +1,6 @@
 # Angular Course - Reference Material
 
-_Note: gli esercizi relativi al corso possono essere reperiti al seguente indirizzo: [https://github.com/marcosecchi/courses-angular-exercises](https://github.com/marcosecchi/courses-angular-exercises):
+_Note: gli esercizi relativi al corso possono essere reperiti al seguente indirizzo: [https://github.com/marcosecchi/courses-angular-exercises](https://github.com/marcosecchi/courses-angular-exercises)_
 
 ## Main
 
