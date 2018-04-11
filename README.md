@@ -44,6 +44,7 @@ _Note: gli esercizi relativi al corso possono essere reperiti al seguente indiri
 
 * [RxJs](http://reactivex.io/rxjs/)
 * [Rx Marbles](http://rxmarbles.com/)
+* [Learn RxJs](https://www.learnrxjs.io/)
 
 #### Articles
 
