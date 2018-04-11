@@ -40,7 +40,11 @@ _Note: gli esercizi relativi al corso possono essere reperiti al seguente indiri
 
 * [RxJs](http://reactivex.io/rxjs/)
 * [Rx Marbles](http://rxmarbles.com/)
+
+#### Articles
+
 * [Importing RXJS Observable functions in Angular 5](https://medium.com/code-divoire/importing-rxjs-observable-functions-in-angular-5-cca1f9bac108)
+* [RxJS: Understanding Subjects](https://blog.angularindepth.com/rxjs-understanding-subjects-5c585188c3e1)
 
 
 ### Theming, Css, et al.
