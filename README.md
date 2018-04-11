@@ -34,6 +34,10 @@ _Note: gli esercizi relativi al corso possono essere reperiti al seguente indiri
 * [JSON Server](https://github.com/typicode/json-server)
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
+### VS Code Plugins
+
+[TBD]
+
 ## Additional Resources
 
 ### Rx
