@@ -40,11 +40,8 @@ _Note: gli esercizi relativi al corso possono essere reperiti al seguente indiri
 * [Angular Language Service](https://marketplace.visualstudio.com/items?itemName=Angular.ng-template)
 * [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 * [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
-
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 * [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-
-* [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 * [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 
 ## Additional Resources
