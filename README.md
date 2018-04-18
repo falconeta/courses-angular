@@ -15,6 +15,10 @@ _Note: gli esercizi relativi al corso possono essere reperiti al seguente indiri
 * [Angular From Theory to Practice](https://www.amazon.it/Angular-Practice-applications-tomorrow-framework-ebook/dp/B01N9S0CZN)
 * [Free Packt Publishing Books](https://www.packtpub.com/packt/offers/free-learning)
 
+### Articles
+
+* [The NgModule ‘forRoot()’ Convention](http://angularfirst.com/the-ngmodule-forroot-convention/)
+
 ## Tools and Utilities
 
 ### Angular
